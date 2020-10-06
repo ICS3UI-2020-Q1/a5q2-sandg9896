@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /**
- * create a “multiplication table”
+ * create a program that prints number from 1 to user entered number
  * @ Gavin 
  */
 public class Main {
